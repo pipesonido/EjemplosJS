@@ -1,2 +1,2 @@
 # EjemplosJS
-Repositorio de clase de practica de Programación Avanzada
+# Repositorio de clase práctica de Programación Avanzada
